@@ -1,15 +1,30 @@
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-# Soluções HackerRank - Get Certified Python Basic
 
-Este repositório contém minhas soluções para os desafios da certificação **Get Certified - Python Basic** do HackerRank. Cada solução foi implementada em Python, seguindo os requisitos de cada problema.
+# HackerRank Solutions — Get Certified: Python Basic
 
-## Descrição
+This repository contains my solutions to the challenges from the **Get Certified: Python Basic** certification on HackerRank.  
+All solutions were implemented in Python, following the problem requirements and applying clean, efficient coding practices.
 
-O objetivo deste repositório é compartilhar minhas soluções e meu progresso no aprendizado de Python por meio da plataforma HackerRank. Os desafios abordam conceitos fundamentais da linguagem, incluindo:
+## Description
 
-- Tipos de dados
-- Controle de fluxo (condicionais e loops)
-- Funções
-- Estruturas de dados (listas, tuplas, dicionários)
-- Manipulação de strings
-- Entrada e saída de dados
+The purpose of this repository is not only to track my progress on HackerRank, but also to demonstrate my ability to solve programming problems using Python.  
+
+The challenges cover fundamental programming concepts, including:
+
+- Data types  
+- Flow control (conditionals and loops)  
+- Functions  
+- Data structures (lists, tuples, dictionaries)  
+- String manipulation  
+- Input and output handling  
+
+## Key Takeaways
+
+- Strengthened problem-solving and logical reasoning skills  
+- Hands-on practice with core Python syntax and features  
+- Development of clear, well-structured, and maintainable code  
+
+---
+
+⭐ These solutions reflect my continuous learning journey and my commitment to improving as a software and data engineer.
+
